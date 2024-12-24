@@ -2,5 +2,5 @@
 Modul Teori - Praktikum Pemrograman Berbasis Mobile
 
 
-> **Note:** !.
+> **Note:**  
 > Ini hanya berisi modul praktikum.
